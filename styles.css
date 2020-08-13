@@ -1,4 +1,9 @@
+body {
+  background-color: #e1b382; /* Sand Tan */
+}
+
 h1 {
+  color: #12343b; /* Night Blue Shadow */
   font-family: "Georgia", serif;
   font-size: 48px;
   margin: 36px 0 12px 0;
@@ -7,6 +12,7 @@ h1 {
 }
 
 h3 {
+  color: #2d545e; /* Night Blue */
   font-family: "Times New Roman", serif;
   font-size: 22px;
   font-weight: normal;
