@@ -1,5 +1,6 @@
 body {
   background-color: #e1b382; /* Sand Tan */
+  font-family: "Times New Roman", serif;
 }
 
 h1 {
@@ -9,6 +10,14 @@ h1 {
   margin: 36px 0 12px 0;
   padding: 0;
   text-align: center;
+}
+
+h2 {
+  color: #12343b; /* Night Blue Shadow */
+  font-family: "Georgia", serif;
+  font-size: 32px;
+  margin: 36px 0 12px 0;
+  padding: 0;
 }
 
 h3 {
@@ -25,5 +34,6 @@ h3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 36px;
   width: 600px;
 }
