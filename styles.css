@@ -4,6 +4,14 @@ body {
 h1 {
   font-family: "Georgia", serif;
   font-size: 48px;
+  padding: 24px 0px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Times New Roman", serif;
+  font-size: 32px;
+  padding: 12px 0px;
   text-align: center;
 }
 
