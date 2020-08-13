@@ -32,11 +32,11 @@ h3 {
 }
 
 a {
-  color: #e1b382; /* Sand Tan Shadow */
+  color: #c89666; /* Sand Tan */
 }
 
 a:hover {
-  color: #c89666; /* Sand Tan */
+  color: #e1b382; /* Sand Tan Shadow */
 }
 
 .img-center {
